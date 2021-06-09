@@ -8,7 +8,7 @@ To compile source
 ```
 mvn compile
 ```
-
+#shruthi edited the command
 
 To run the application
 1. Save a file named banks.csv in local
